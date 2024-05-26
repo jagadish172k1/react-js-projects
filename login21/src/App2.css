@@ -1,0 +1,171 @@
+.background{
+  
+position: absolute;
+width: 1536px;
+height: 703px;
+}
+.formbackground{
+  position: absolute;
+  left: 511px;
+  top: 95px;
+  box-sizing: border-box;  
+  background: #dadada;
+  width: 514px;
+  height: 513px;
+  opacity: 1;
+  border-radius: 50%;
+}
+.login{
+  position: absolute;
+width: 100px;
+height: 55px;
+top: 442px;
+left: 715px;
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 55px;
+
+/* identical to box height */
+
+color: #070028;
+background-color: #dadada;
+border: 1px solid #dadada;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+.message{
+  /* User Login */
+
+position: absolute;
+width: 227px;
+height: 55px;
+top: 179px;
+left: 653px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+
+line-height: 55px;
+
+/* identical to box height */
+
+color: #070028;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+position:absolute;
+color:#070028;
+filter:drop-shadow(0px 4px 4px rgba(0,0,0,0.25));
+text-align:left;
+vertical-align:text-top;
+font-size:50px;
+}
+.proicon{
+  
+position: absolute;
+width: 62.81px;
+height: 65.22px;
+left: 577px;
+top: 264px;
+mix-blend-mode: multiply;
+
+}
+.passicon{
+  
+position: absolute;
+width: 38px;
+height: 30px;
+left: 594px;
+top: 383px;
+mix-blend-mode: multiply
+
+
+}
+.passfield{
+  /* Password Field */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 284px;
+height: 57px;
+left: 644px;
+top: 367px;
+font-size: 25px;
+background: #D9D9D9;
+border: 1px solid #000000;
+border-radius: 100px
+}
+.userfield{
+  /* Username Field */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 284px;
+height: 57px;
+left: 644px;
+top: 267px;
+font-size: 25px;
+background: #D9D9D9;
+border: 1px solid #000000;
+border-radius: 100px;
+line-height: -5px;
+}
+.userlogin
+{
+position:absolute;
+color:#070028;
+filter:drop-shadow(0px 4px 4px rgba(0,0,0,0.25));
+text-align:left;
+vertical-align:text-top;
+font-size:40px;
+font-family:Nunito;
+line-height:auto;
+width:194px;
+}
+.logpass
+{
+  position: absolute;
+  left: 663px;
+  top: 520px;
+  color: rgb(159, 5, 5);
+  font-family: 'Helvetica';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  width: 212px;
+  height: 23px;
+
+
+}
+.logfail
+{
+  position: absolute;
+  left: 611px;
+  top: 520px;
+  color: rgb(159, 5, 5);
+  font-family: 'Helvetica';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  width: 318px;
+  height: 23px;
+
+
+}
+.login1
+{
+
+position:absolute;
+color:#070028;
+filter:drop-shadow(0px 4px 4px rgba(0,0,0,0.25));
+text-align:left;
+vertical-align:text-top;
+font-size:40px;
+font-family:Nunito;
+line-height:auto;
+width:100px;
+}
