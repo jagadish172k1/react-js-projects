@@ -1,0 +1,555 @@
+.background{
+  position: absolute;
+width: 1536px;
+height: 703px;
+transform: rotate(180deg);
+rotate: 180deg;
+}
+.base{
+  /* Base */
+
+position: absolute;
+width: 1334px;
+height: 600px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px 5px #38244F;
+border-radius: 10px;
+left: 101px;
+top: 51px;
+}
+.backgroundtwo{
+  position: absolute;
+  width: 422px;
+height: 600px;
+border-radius: 10px 10px 10px 10px;
+top: 51px;
+left: 101px;
+
+}
+.header{
+  /* Student Registration Form */
+
+position: absolute;
+width: 414px;
+height: 48px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 48px;
+left: 577px;
+top: 73px;
+
+/* identical to box height */
+
+color: #000000;
+
+border: 1px solid #ffffff;
+}
+.name{
+  /* Name */
+
+position: absolute;
+width: 67px;
+height: 34px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 34px;
+left: 577px;
+top: 150px;
+
+/* identical to box height */
+
+color: #000000;
+}
+.namefield{
+  /* Name Field */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 331px;
+height: 57px;
+font-size: 25px;
+font-weight: 100;
+
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.31);
+border-radius: 10px;
+left: 577px;
+top: 184px;
+}
+.usn{
+  /* USN */
+
+position: absolute;
+width: 53px;
+height: 34px;
+
+font-family: 'Nunito Sans';
+
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 34px;
+left: 1018px;
+top: 150px;
+
+/* identical to box height */
+
+color: #000000;
+
+
+}
+.usnfield{
+  /* USN field */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 331px;
+height: 57px;
+font-size: 25px;
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.31);
+border-radius: 10px;
+left: 1018px;
+top: 184px;
+}
+.branchfield{
+  /* Branch Field */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 331px;
+height: 57px;
+font-size: 25px;
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.31);
+border-radius: 10px;
+left: 577px;
+top: 281px;
+}
+.branch{
+  /* Branch */
+
+position: absolute;
+width: 79px;
+height: 34px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 34px;
+left: 577px;
+top: 247px;
+
+/* identical to box height */
+
+color: #000000;
+
+}
+.sem{
+  /* Course */
+
+position: absolute;
+width: 79px;
+height: 34px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 34px;
+left: 1018px;
+top: 247px;
+
+/* identical to box height */
+
+color: #000000;
+}
+.semfield{
+  /* Course Field */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 331px;
+height: 57px;
+font-size: 25px;
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.31);
+border-radius: 10px;
+left: 1018px;
+top: 281px;
+}
+.college{
+  /* College */
+
+position: absolute;
+width: 86px;
+height: 34px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 34px;
+left: 577px;
+top: 344px;
+
+/* identical to box height */
+
+color: #000000;
+}
+.collegefield{
+  /* College Field */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 331px;
+height: 57px;
+font-size: 25px;
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.31);
+border-radius: 10px;
+left: 577px;
+top: 378px;
+}
+.email{
+  /* Email */
+
+position: absolute;
+width: 63px;
+height: 34px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 34px;
+left: 1018px;
+top: 344px;
+
+
+/* identical to box height */
+
+color: #000000;
+
+}
+.emailfield{
+  
+box-sizing: border-box;
+
+position: absolute;
+width: 331px;
+height: 57px;
+font-size: 25px;
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.31);
+border-radius: 10px;
+left: 1018px;
+top: 378px;
+}
+.phone{
+position: absolute;
+width: 72px;
+height: 68px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 34px;
+left: 577px;
+top: 441px;
+color: #000000;
+
+}
+.phonefield{
+  /* PhoneField */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 331px;
+height: 57px;
+font-size: 25px;
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.31);
+border-radius: 10px;
+left: 577px;
+top: 475px;
+}
+.submit{
+  /* Submit */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 158px;
+height: 50px;
+
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.31);
+border-radius: 100px;
+left: 1191px;
+top: 576px;
+  /* REGISTER */
+
+  position: absolute;
+  width: 94px;
+  height: 27px;
+  color: #000000;
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  left: 1223px;
+  top: 588px;
+}
+.register{
+  /* REGISTER */
+
+position: absolute;
+width: 94px;
+height: 27px;
+color: #000000;
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: bolder;
+font-size: 20px;
+line-height: 27px;
+left: 1223px;
+top: 588px;
+
+
+color: #000000;
+}
+.line1{
+  /* Line 1 */
+
+position: absolute;
+width: 207px;
+height: 0px;
+
+border: 1px solid #AA28C8;
+left: 577px;
+top: 129px;
+}
+.line2{
+  /* Line 2 */
+
+position: absolute;
+width: 194px;
+height: 0px;
+
+border: 1px solid #AA28C8;
+transform: rotate(90deg);
+left: 870px;
+top: 371px;
+}
+.gender{
+  color: #000000;
+  width: 200px;
+  height: 400px;
+  position: absolute;
+  left: 1018px;
+  top: 479px;
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+}
+.genderf{
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  color: #000000;
+  width: 200px;
+  height: 400px;
+  position: absolute;
+  left: 1128px;
+  top: 478px;
+
+}
+.gendero{
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  color: #000000;
+  width: 200px;
+  height: 400px;
+  position: absolute;
+  left: 1256px;
+  top: 478px;
+
+}
+.success{
+/* Registered Successfully! */
+
+position: absolute;
+width: 273px;
+height: 34px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 34px;
+top: 584px;
+left: 829px;
+
+/* identical to box height */
+
+color: #FF0000;
+
+}
+.usuccess{
+  font-size: 25px;
+  font-family: 'Nunito Sans';
+  position: absolute;
+  left: 1170px;
+  top: 50px;
+  color: rgb(35, 18, 18);
+
+}
+.namef{
+  /* *Name cannot contain speacial characters or numbers */
+
+position: absolute;
+width: 361px;
+height: 20px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+
+color: #FF0000;
+left:577px ;
+top: 237px;
+}
+.usnf{
+  position: absolute;
+width: 361px;
+height: 20px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+
+color: #FF0000;
+left: 1018px; ;
+top: 237px;
+
+}
+.branchf{
+  position: absolute;
+width: 361px;
+height: 20px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+
+color: #FF0000;
+left: 577px; ;
+top: 334px;
+  
+}
+.semf{
+  position: absolute;
+  width: 361px;
+  height: 20px;
+  
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+  
+  color: #FF0000;
+  left: 1018px; ;
+  top: 334px;
+  
+}
+.collegef{
+  position: absolute;
+  width: 361px;
+  height: 20px;
+  
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+  
+  color: #FF0000;
+  left: 577px; ;
+  top: 431px;
+  
+}
+.emailflag{
+  position: absolute;
+  width: 361px;
+  height: 20px;
+  
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+  
+  color: #FF0000;
+  left: 1018px; ;
+  top: 431px;
+  
+}
+.phonef{
+  position: absolute;
+  width: 361px;
+  height: 20px;
+  
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+  
+  color: #FF0000;
+  left: 577px; ;
+  top: 532px;
+  
+}
+.gendermsg{
+position: absolute;
+width: 361px;
+height: 20px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+
+color: #FF0000;
+left: 1018px; ;
+top: 532px;
+}

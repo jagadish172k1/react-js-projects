@@ -1,0 +1,26 @@
+.background{
+    position: absolute;
+  width: 1536px;
+  height: 703px;
+  transform: rotate(180deg);
+  rotate: 180deg;
+
+  } 
+.box{
+    position: absolute;
+width: 654px;
+height: 209px;
+left: 441px;
+top: 247px;
+opacity: 0.8;
+background: #FFFFFF;
+border-radius: 30px;
+}
+.msg{
+    position: absolute;
+    font-size: 15px;
+    font-family:'Nunito Sans', sans-serif;
+    font-weight: bold;
+    top :305px;
+    left: 508px;
+}
