@@ -1,0 +1,186 @@
+.background{
+  /* background */
+  
+  position: absolute;
+  width: 1536px;
+  height: 703px;
+  left: 0px;
+  top: 0px;
+
+  
+  background: (./sky-planes-dark-minimalist-wallpaper-original.jpg);
+  }
+  .main{
+  /* Rectangle 3 */
+  
+  position: absolute;
+  width: 298px;
+  height: 342px;
+  left: 784px;
+  top: 41px;
+  bottom: 59px;
+  opacity: 1;
+  background: #ffffff;
+  border-radius: 25px;
+  
+  }
+  .login{
+      /* Login Button */
+  
+  box-sizing: border-box;
+  
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 60px;
+  gap: 10px;
+  
+  position: absolute;
+  width: 119px;
+  height: 28px;
+  left: 870px;
+  
+  top: 113px;
+  bottom: 309.69px;
+  font-family: 'Nunito Sans', sans-serif;
+  text-align: center;
+  background: #1E1D22;
+  border: 0.5px solid #ffffff;
+  color:#dddddd;
+  font-size: 8px;
+  border-radius: 5px;
+  }
+  .field{
+      /* Login Fields */
+    
+  /* Auto layout */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  gap: 25px;
+  
+  position: absolute;
+  width: 280px;
+  height: 159px;
+  left: 788px;
+  top: 398px;
+  }
+  .signinbutton{
+    font-family: 'Nunito Sans', sans-serif;
+
+    position: absolute;
+    left: 874.55px;
+    top: 290px;
+    bottom: 362px;
+    width: 119px;
+    height: 25px;
+    background: #1E1D22;
+    color: #ffffff;
+    border-radius: 5px;
+    line-height: -3px;
+  }
+.email{
+/* Outbox */
+
+position: absolute;
+width: 262px;
+height: 150px;
+left: 798px;
+top: 403px;
+background: #FFFFFF;
+border-radius: 5px;
+}
+.username{
+  position: absolute;
+  width: 39px;
+  height: 10px;
+  left: 871px;
+  top: 166px;
+  
+  font-family: 'Nunito Sans', sans-serif;
+    font-style: normal;
+  font-weight: 300;
+  font-size: 05px;
+  line-height: 0px;
+  
+  /* identical to box height */
+  
+  color: #000000;
+}
+.usernamefield{
+
+
+  position: absolute;
+  width: 133px;
+  height: 20.5px;
+  left: 864px;
+  top: 184px;
+  
+  background: #dddddd;
+  border-radius: 5px;
+}
+.password{
+  position: absolute;
+width: 58px;
+height: 16px;
+left: 871px;
+top: 219px;
+
+font-family: 'Nunito Sans', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 05px;
+line-height: 0px;
+
+/* identical to box height */
+
+color: #000000;
+}
+.passfield{
+  /* Pass field */
+
+position: absolute;
+width: 133px;
+height: 20.5px;
+left: 864px;
+top: 232.5px;
+
+background: #dddddd;
+border-radius: 5px;
+}
+.logpass
+{
+  position: absolute;
+  left: 865px;
+  top: 317px;
+  color: rgb(159, 5, 5);
+  font-family: 'Nunito Sans', sans-serif;
+  font-style: normal;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  width: 147px;
+  height: 23px;
+
+
+}
+.logfail
+{
+  position: absolute;
+  left: 830px;
+  top: 317px;
+  color: rgb(159, 5, 5);
+  font-family: 'Nunito Sans', sans-serif;
+  font-style: normal;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  width: 215px;
+  height: 23px;
+
+
+}
